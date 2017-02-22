@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "828751408881",
+    "firebase_url": "https://mycollageassistant.firebaseio.com",
+    "project_id": "mycollageassistant",
+    "storage_bucket": "mycollageassistant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828751408881:android:e9c6efa4b317f2f5",
+        "android_client_info": {
+          "package_name": "xyz.aufa.mycollegeassistant1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828751408881-rtfts62ejvsj5mouh2knc4onercssuju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMm95jHFvYgx6jG0cctK7O2mMoIBEESfw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
